@@ -34,13 +34,13 @@ Todo List é uma página web para criação de tarefas no estilo to-do list. Est
 ### Desktop
 
 <p align="left"> 
-  <img src="https://github.com/denilsondsousa/to-do-list/layout/web-layout.png" width="70%"">
+  <img src="https://github.com/denilsondsousa/to-do-list/blob/main/layout/web-layout.png" width="70%"">
 </p>
 
 ### Mobile
 
 <p align="left">       
-   <img src="https://github.com/denilsondsousa/to-do-list/layout/mobile-layout.png" width="35%"">
+   <img src="https://github.com/denilsondsousa/to-do-list/blob/main/layout/mobile-layout.png" width="35%"">
 </p>
 
 ## 🔨 Tecnologias utilizadas
