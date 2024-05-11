@@ -1,0 +1,17 @@
+.wrapper {
+  background-color: var(--gray-600);
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  max-width: 736px;
+  margin: 0 auto;
+}
+
+@media (max-width: 720px) {
+  .container {
+    max-width: 90%;
+  }
+}

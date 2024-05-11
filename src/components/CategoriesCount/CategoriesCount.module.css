@@ -1,0 +1,36 @@
+.container {
+  width: 100%;
+  margin-bottom: 24px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.container div strong {
+  font-size: 0.875rem;
+  font-weight: bold;
+}
+
+.category:first-child strong {
+  color: var(--blue);
+}
+
+.category:last-child strong {
+  color: var(--purple);
+}
+
+.container div span {
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: var(--gray-200);
+
+  background-color: var(--gray-400);
+  border-radius: 25px;
+  padding: 2px 8px;
+}
+
+.category {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
